@@ -1,4 +1,5 @@
 Objectives
+
 This is a simple implementation of a collection with a fixed size.
 
 default size = 16.
